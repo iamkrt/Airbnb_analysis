@@ -1,3 +1,16 @@
+# PROBLEM STATEMENT
+
+We are looking at New York City Airbnb listings (2011-2019) to answer the question: Which Neighborhood group is the best to invest in? 
+
+Investing requires seeing where costs (prices) are low, and revenues are growing. We have to look at the data from multiple dimensions to get a sense of where the growth is happening to have confidence when choosing where we will get the best bang for our buck.
+
+This includes looking at prices, number of reviews, revenue (which we estimate) and geographical distribution to name a few dimensions.
+
+
+
+
+
+
 # KEY TAKEAWAYS
 
 ● Renting out a property on Airbnb has become a popular way for people to generate extra income.
