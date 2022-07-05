@@ -18,7 +18,8 @@ This includes looking at prices, number of reviews, revenue (which we estimate) 
 ● As with all real estate, the main driver of profits will be location.
 
 ● But, for an Airbnb, location doesn't just mean high demand from
-renters—it also means affordable housing since high costs can quickly eat into profits.<img width="1221" alt="Screen Shot 2022-07-05 at 11 25 41 AM" src="https://user-images.githubusercontent.com/42109704/177363021-24aaaf35-f98e-4842-a6dc-ec4b892296ea.png">
+renters—it also means affordable housing since high costs can quickly eat into profits.<img width="1221" alt="Screen Shot 2022-07-05 at 12 16 45 PM" src="https://user-images.githubusercontent.com/42109704/177372264-2ba51b52-712d-45ea-91f0-399218080db3.png">
+
 
 
 ## Key Profit Factors for Airbnb Renting
